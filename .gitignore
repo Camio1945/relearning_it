@@ -18,6 +18,7 @@
 .ntvs
 .obj
 .opensdf
+.out
 .pch
 .pdb
 .pgc

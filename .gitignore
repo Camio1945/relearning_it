@@ -115,3 +115,5 @@ var
 yarn-debug.log
 yarn-error.log
 ~$
+*.out
+*.class

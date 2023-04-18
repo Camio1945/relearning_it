@@ -60,5 +60,5 @@
 
 [Difference between GCC and G++](https://www.geeksforgeeks.org/difference-between-gcc-and-g/)
 
-
+[不同JDK的参数](https://chriswhocodes.com/hotspot_options_openjdk17.html)
 

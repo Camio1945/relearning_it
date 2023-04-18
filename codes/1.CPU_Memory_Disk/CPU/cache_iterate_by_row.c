@@ -18,6 +18,7 @@ void main() {
     }
   }
   clock_t end = clock();
-  printf("Iterate by row. [ row: %6d ], [ col: %6d ], [ costs：%ld clock ticks ]\n", row, col, end - start);
+//  printf("Iterate by row. [ row: %6d ], [ col: %6d ], [ costs：%ld clock ticks ]\n", row, col, end - start);
+  printf("Iterate by row.[ sum: %12d ]. [ row: %6d ], [ col: %6d ], [ costs：%ld clock ticks ]\n", sum_row, row, col, end - start);
 }
 

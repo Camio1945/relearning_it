@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [项目说明](#%E9%A1%B9%E7%9B%AE%E8%AF%B4%E6%98%8E)
@@ -15,50 +15,44 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
 # 项目说明
 
 重头学习IT技术的过程中整理的一些学习资料。也就是说，这个仓库没有多少原创的知识，它的存在只是为了方便自己日后搜索。
 
 # 目录结构
 
-***
+---
 
 ## 1.CPU、内存、硬盘
 
 [1.1.CPU](./1.CPU_Memory_Disk/1.1.CPU.md)
 
-
-
-***
+---
 
 ## 2.操作系统（如Linux、Windows等）
 
-***
+---
 
 ## 3.编程语言（如C、C++、Java等）
 
-***
+---
 
 ## 4.其他语言（如SQL、HTML等）
 
-***
+---
 
 ## 5.数据结构与算法
 
-***
+---
 
 ## 6.数据库
 
-***
+---
 
 ## 7.开源软件（如Spring、Nacos等）
-
-
 
 # 待分类的资料
 
 [Difference between GCC and G++](https://www.geeksforgeeks.org/difference-between-gcc-and-g/)
 
 [不同JDK的参数](https://chriswhocodes.com/hotspot_options_openjdk17.html)
-

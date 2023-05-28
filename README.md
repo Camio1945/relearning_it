@@ -21,37 +21,44 @@
 
 # 目录结构
 
----
+***
+
+## 0.技术出现的背景
+
+[0.1.技术出现的背景](./0.Technolog_Background/0.Technolog_Background.md)
+
+
+***
 
 ## 1.CPU、内存、硬盘
 
 [1.1.CPU](./1.CPU_Memory_Disk/1.1.CPU.md)
 
----
+***
 
 ## 2.操作系统（如Linux、Windows等）
 
----
+***
 
 ## 3.编程语言（如C、C++、Java等）
 
----
+***
 
 ## 4.其他语言（如SQL、HTML等）
 
----
+***
 
 ## 5.数据结构与算法
 
----
+***
 
 ## 6.数据库
 
----
+***
 
 ## 7.开源软件（如Spring、Nacos等）
 
-# 待分类的资料
+## 待分类的资料
 
 [Difference between GCC and G++](https://www.geeksforgeeks.org/difference-between-gcc-and-g/)
 

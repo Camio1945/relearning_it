@@ -1,3 +1,5 @@
+/** copy from https://github.com/mkirchner/linked-list-good-taste */
+
 #include <stdio.h>
 
 struct list_item {

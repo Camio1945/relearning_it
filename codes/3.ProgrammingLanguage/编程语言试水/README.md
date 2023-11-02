@@ -17,3 +17,6 @@
 `Score100WordsAnalyzer.go`：Go
 
 `Score100WordsAnalyzer.java`：Java
+
+`Score100WordsAnalyzer.rs`：Rust
+

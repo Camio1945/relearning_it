@@ -18,3 +18,13 @@ fn main() {
     println!("\nwords number: {}", score_100_words.len());
     println!("        time: {}ms", start.elapsed().as_millis());
 }
+/**
+编码体验：
+1、限制很多，比如 dictionary 必须提取成变量，不能写成这样：
+    let score_100_words: Vec<&str> = read_to_string("Dictionary.txt")
+        .unwrap()
+        .lines()
+        ...
+2、char和char不能直接相减，其他语言是可以的
+ */
+

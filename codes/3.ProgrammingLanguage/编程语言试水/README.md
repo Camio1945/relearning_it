@@ -18,5 +18,7 @@
 
 `Score100WordsAnalyzer.java`：Java
 
+`Score100WordsAnalyzer.kt`：Kotlin
+
 `Score100WordsAnalyzer.rs`：Rust
 

@@ -22,3 +22,4 @@
 
 `Score100WordsAnalyzer.rs`：Rust
 
+`Score100WordsAnalyzer.swift`：Swift

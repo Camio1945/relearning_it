@@ -23,3 +23,10 @@ const score100Words = fs
 console.log(score100Words.join(","));
 console.log(`\nwords number: ${score100Words.length}`);
 console.log("        time: " + (Date.now() - start) + "ms");
+
+/*
+编码体验：
+1、句尾的分号很随意，可以有，也可以没有
+2、有变量类型
+3、校验很松散
+*/

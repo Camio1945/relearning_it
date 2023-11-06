@@ -24,6 +24,8 @@
 
 `Score100WordsAnalyzer.kt`：Kotlin
 
+`Score100WordsAnalyzer.py`：Python
+
 `Score100WordsAnalyzer.rs`：Rust
 
 `Score100WordsAnalyzer.swift`：Swift

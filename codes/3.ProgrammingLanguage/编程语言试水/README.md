@@ -12,14 +12,34 @@
 
 `Score100WordsAnalyzer.cs`：C#
 
+`Score100WordsAnalyzer.dart`：Dart
+
 `Score100WordsAnalyzer.fs`：F#
 
 `Score100WordsAnalyzer.go`：Go
 
 `Score100WordsAnalyzer.java`：Java
 
+`Score100WordsAnalyzer.js`：JavaScript
+
 `Score100WordsAnalyzer.kt`：Kotlin
 
 `Score100WordsAnalyzer.rs`：Rust
 
 `Score100WordsAnalyzer.swift`：Swift
+
+`Score100WordsAnalyzerTs.ts`：TypeScript
+
+​	注：注意这里的命名是 `Score100WordsAnalyzerTs` 而不是 `Score100WordsAnalyzer`，这是为了防止 `tsc` 命令生成的 js 文件覆盖掉已存在的 `Score100WordsAnalyzer.js`。
+
+​	这里推荐使用以下方式测试：
+
+```cmd
+npm install -y ts-node -g
+ts-node Score100WordsAnalyzerTs.ts
+```
+
+
+
+
+

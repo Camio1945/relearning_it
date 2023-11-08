@@ -5,11 +5,11 @@ public class Score100WordsAnalyzer
     public static void Main(string[] args)
     {
         long start = DateTime.Now.Ticks;
-        List<string> score100Words = File.ReadAllLines("Dictionary.txt", Encoding.UTF8)
-            .Where(line => !line.Contains('-') && !line.Contains(' ') && !line.Contains('='))
-            .Where(word => word.Sum(c => c - 'a' + 1) == 100)
-            .ToList();
-        Console.WriteLine(string.Join(",", score100Words));
+		List<string> score100Words = File.ReadAllLines("Dictionary.txt", Encoding.UTF8)
+			.Where(line => !line.Contains('-') && !line.Contains(' ') && !line.Contains('='))
+			.Where(word => word.Sum(c => c - 'a' + 1) == 100)
+			.ToList();
+		Console.WriteLine(string.Join(",", score100Words));
         Console.WriteLine("\nwords number: " + score100Words.Count);
         Console.WriteLine("        time: " + (DateTime.Now.Ticks - start) / TimeSpan.TicksPerMillisecond + "ms");
     }

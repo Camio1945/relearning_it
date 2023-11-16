@@ -8,11 +8,15 @@
 
 `Score100WordsAnalyzer.c`：C语言
 
+`Score100WordsAnalyzer.clj`：Clojure
+
 `Score100WordsAnalyzer.cpp`：C++
 
 `Score100WordsAnalyzer.cs`：C#
 
 `Score100WordsAnalyzer.dart`：Dart
+
+`Score100WordsAnalyzer.exs`：Elixir
 
 `Score100WordsAnalyzer.fs`：F#
 
@@ -20,15 +24,34 @@
 
 `Score100WordsAnalyzer.java`：Java
 
+`Score100WordsAnalyzer.jl`：Julia
+
 `Score100WordsAnalyzer.js`：JavaScript
 
 `Score100WordsAnalyzer.kt`：Kotlin
 
+`Score100WordsAnalyzer.lua`：Lua
+
+`Score100WordsAnalyzer.php`：PHP
+
+`Score100WordsAnalyzer.ps1`：PowerShell
+
 `Score100WordsAnalyzer.py`：Python
+
+`Score100WordsAnalyzer.R`：R
+
+`Score100WordsAnalyzer.rb`：Ruby
 
 `Score100WordsAnalyzer.rs`：Rust
 
+`Score100WordsAnalyzer.sh`：Shell
+
+​	注：运行很耗时（我的电脑上需要302秒）
+
 `Score100WordsAnalyzer.swift`：Swift
+
+`Score100WordsAnalyzer.zig`：Zig
+
 
 `Score100WordsAnalyzerTs.ts`：TypeScript
 
@@ -40,8 +63,4 @@
 npm install -y ts-node -g
 ts-node Score100WordsAnalyzerTs.ts
 ```
-
-
-
-
 

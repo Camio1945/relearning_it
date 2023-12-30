@@ -1,0 +1,6 @@
+.idea
+glibc
+kernel
+glibc-2.35*
+linux-5.15*
+cmake-build-debug

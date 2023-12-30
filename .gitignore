@@ -117,3 +117,5 @@ yarn-error.log
 ~$
 *.out
 *.class
+1.CPU_Memory_Disk_Network/Network/Network_Programming_In_Practice/NPIP_Rust/**/**.exe
+1.CPU_Memory_Disk_Network/Network/Network_Programming_In_Practice/NPIP_Rust/**/**.pdb

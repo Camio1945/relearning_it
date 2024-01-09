@@ -1,0 +1,4 @@
+/mnt/d/git/relearning_it/1.CPU_Memory_Disk_Network/Network/Network_Programming_In_Practice/NPIP_C/t18_poll_server_one_thread/CMakeFiles/lib2.dir
+/mnt/d/git/relearning_it/1.CPU_Memory_Disk_Network/Network/Network_Programming_In_Practice/NPIP_C/t18_poll_server_one_thread/CMakeFiles/t18_poll_server_one_thread.dir
+/mnt/d/git/relearning_it/1.CPU_Memory_Disk_Network/Network/Network_Programming_In_Practice/NPIP_C/t18_poll_server_one_thread/CMakeFiles/edit_cache.dir
+/mnt/d/git/relearning_it/1.CPU_Memory_Disk_Network/Network/Network_Programming_In_Practice/NPIP_C/t18_poll_server_one_thread/CMakeFiles/rebuild_cache.dir

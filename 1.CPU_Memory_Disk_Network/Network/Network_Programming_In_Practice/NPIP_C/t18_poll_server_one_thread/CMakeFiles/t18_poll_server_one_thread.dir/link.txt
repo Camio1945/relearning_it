@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/t18_poll_server_one_thread.dir/t18_poll_server_one_thread.c.o -o t18_poll_server_one_thread  liblib2.a 

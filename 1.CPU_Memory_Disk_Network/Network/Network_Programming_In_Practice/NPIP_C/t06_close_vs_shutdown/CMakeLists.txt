@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22)
+project(t06_close_vs_shutdown C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(t06_close_vs_shutdown1_server t06_close_vs_shutdown1_server.c)
+add_executable(t06_close_vs_shutdown2_client t06_close_vs_shutdown2_client.c)

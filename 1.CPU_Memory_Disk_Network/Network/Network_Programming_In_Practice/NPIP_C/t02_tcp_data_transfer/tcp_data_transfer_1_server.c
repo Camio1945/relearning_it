@@ -38,6 +38,10 @@ void read_data(int socket_fd) {
     if (n <= 0) {
       return;
     }
+    if (time > 100) {
+      printf("A bug occurred. Since the client only sent 102400 bytes, the time's value can not over 100. (Don't know why)\n");
+      exit(-1);
+    }
     time++;
     fprintf(stdout, "1K read for the %dth time\n", time);
   }

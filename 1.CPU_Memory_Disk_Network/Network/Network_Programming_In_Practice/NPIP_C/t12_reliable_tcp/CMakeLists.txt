@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.22)
+project(t12_reliable_tcp C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(t12_reliable_tcp1_server t12_reliable_tcp1_server.c)
+add_executable(t12_reliable_tcp2_client t12_reliable_tcp2_client.c)
+add_executable(t12_reliable_tcp3_server t12_reliable_tcp3_server.c)
+add_executable(t12_reliable_tcp4_client t12_reliable_tcp4_client.c)

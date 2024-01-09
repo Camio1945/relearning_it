@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22)
+project(t04_local_data_stream C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(t04_local_data_stream1_server t04_local_data_stream1_server.c)
+add_executable(t04_local_data_stream2_client t04_local_data_stream2_client.c)
